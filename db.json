@@ -1,0 +1,74 @@
+{
+    "users": [
+        {
+            "id": 27859,
+            "username": "GPaulsen",
+            "firstName": "Rena",
+            "lastName": "Downing",
+            "age": 23
+        },
+        {
+            "id": 27860,
+            "username": "RVlasses",
+            "firstName": "Oren",
+            "lastName": "Weatherly",
+            "age": 44
+        },
+        {
+            "id": 27861,
+            "username": "VCollier",
+            "firstName": "Triandi",
+            "lastName": "Bolton",
+            "age": 29
+        },
+        {
+            "id": 27862,
+            "username": "CStaley",
+            "firstName": "Arlyne",
+            "lastName": "Hancock",
+            "age": 47
+        },
+        {
+            "id": 27863,
+            "username": "JDeno",
+            "firstName": "Lowell",
+            "lastName": "Keltner",
+            "age": 19
+        },
+        {
+            "id": 27864,
+            "username": "TConk",
+            "firstName": "Alexandra",
+            "lastName": "Herrick",
+            "age": 36
+        },
+        {
+            "id": 27865,
+            "username": "DKallas",
+            "firstName": "Arlene",
+            "lastName": "Skublics",
+            "age": 59
+        },
+        {
+            "id": 27866,
+            "username": "CMoghadam",
+            "firstName": "Danielle",
+            "lastName": "Mckelvy",
+            "age": 80
+        },
+        {
+            "id": 27867,
+            "username": "NFenton",
+            "firstName": "Bradford",
+            "lastName": "Barron",
+            "age": 36
+        },
+        {
+            "id": 27868,
+            "username": "MKeen",
+            "firstName": "Sidney",
+            "lastName": "Kieser",
+            "age": 77
+        }
+    ]
+}
